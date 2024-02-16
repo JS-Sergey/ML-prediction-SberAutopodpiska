@@ -1,12 +1,12 @@
 # ML-prediction-SberAutopodpiska
 A repository of my project for the 'Introduction to Data Science' course from Skillbox.
 
-⋅⋅⋅+ Data (folder)
-⋅⋅⋅ contains all moduls, additional files and piplines
-⋅⋅⋅+ Dockerfile
-⋅⋅⋅+ main.py
-⋅⋅⋅+ measure_response.py
-⋅⋅⋅+ requirements.txt
+- Data (folder)
+  - contains all moduls, additional files and piplines
+- Dockerfile
+- main.py
+- measure_response.py
+- requirements.txt
 
 ---
 
